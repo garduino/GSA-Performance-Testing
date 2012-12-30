@@ -1,4 +1,4 @@
-'From Cuis 4.0 of 21 April 2012 [latest update: #1271] on 6 May 2012 at 5:50:47 pm'!
+'From Cuis 4.1 of 12 December 2012 [latest update: #1524] on 30 December 2012 at 7:01:46 pm'!
 'Description Please enter a description for this package '!
 !classDefinition: #SampleSystem category: #'GSA-Cuis-Performance-Testing'!
 Object subclass: #SampleSystem
